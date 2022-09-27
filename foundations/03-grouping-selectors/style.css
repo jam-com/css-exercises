@@ -1,0 +1,16 @@
+.me, .gnome {
+
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.me {
+
+    color: #ffffff;
+    background-color: #000;
+    
+}
+
+.gnome {
+    background-color: #ffff00;
+}
